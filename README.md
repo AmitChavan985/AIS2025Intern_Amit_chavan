@@ -14,10 +14,10 @@ Task 2 :
     If else conditions.
     If elif Conditions.
     Fo Loop.
-    While Loop. Syntax, Explanation and Examples.
+    While Loop. 
 
 Task 4 :
-    NumPy: NumPy Tutorial NumPy Random NumPy ufunc.
+
 
 Task 5  :
 
