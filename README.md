@@ -10,12 +10,7 @@ Task 1 -1. Numbers in Python
 
 Task 2 :
 
-    If conditions.
-    If else conditions.
-    If elif Conditions.
-    Fo Loop.
-    While Loop. 
-
+  
 Task 4 :
 
 
