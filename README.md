@@ -1,6 +1,7 @@
 # AIS2025Intern_Amit_chavan
-Day 1 -
-
+Day 1 -1. Numbers in Python
+        2. Operators in Python
+        
 Task 2 :
 
     Anaconda downloading.
@@ -18,22 +19,15 @@ Task 2 :
     Fo Loop.
     While Loop. Syntax, Explanation and Examples.
 
-Day 3 -
-
 Task 3 : Control Statements : 1.Break Statement 2.Pass Statement 3.Continue Statement Explanation and Examples.
 
     Statistical user Defined Functions.
     Logical User Defined Functions.
 
-Day 4 -
-
 Task 4 :
 
     NumPy: NumPy Tutorial NumPy Random NumPy ufunc.
-
-Day 5 -
-
-Task 5 :
+Task 5  :
 
 Series : creation and operation
 
