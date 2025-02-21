@@ -1,5 +1,6 @@
 # AIS2025Intern_Amit_chavan
-Task 1 -1. Numbers in Python.
+#Task 1
+1. Numbers in Python.
         2. Operators in Python.
         3. Lists in Python.
         4. Tuples in Python.
